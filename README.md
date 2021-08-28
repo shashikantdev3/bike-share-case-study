@@ -1,8 +1,8 @@
 # Bike Share Case Study
 
-#### To see the detailed repots of Analysis on website : [Click Here](https://imshashikantdev.github.io/Bike-Share-Case-Study/)
-#### To see the Dashboard on Tableau : [Click Here](https://public.tableau.com/app/profile/shashikant6503)
-#### To see the detailed repots of Analysis on Kaggle : [Click Here](https://www.kaggle.com/shashikantdev/case-study-cyclistic-bike-share)
+To see the detailed repots of Analysis on website : [Click Here](https://imshashikantdev.github.io/Bike-Share-Case-Study/)
+To see the Dashboard on Tableau : [Click Here](https://public.tableau.com/app/profile/shashikant6503)
+To see the detailed repots of Analysis on Kaggle : [Click Here](https://www.kaggle.com/shashikantdev/case-study-cyclistic-bike-share)
 
 
 ![Cyclistic Company Logo](logo.png)
