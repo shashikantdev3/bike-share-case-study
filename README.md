@@ -9,16 +9,16 @@
 
 # Background
 
-### This analysis is for case study 1 from the Google Data Analytics Certificate (Cyclistic). It’s originally based on the case study “‘Sophisticated, Clear, and Polished’: Divvy and Data Visualization” written by Kevin Hartman [click here]( https://artscience.blog/home/divvy-dataviz-case-study>) to visit the original blog post. We will be using the Divvy dataset for the case study. 
+This analysis is for case study 1 from the Google Data Analytics Certificate (Cyclistic). It’s originally based on the case study “‘Sophisticated, Clear, and Polished’: Divvy and Data Visualization” written by Kevin Hartman [click here]( https://artscience.blog/home/divvy-dataviz-case-study>) to visit the original blog post. We will be using the Divvy dataset for the case study. 
 
 
 ## Purpose
 
-### The purpose of this script is to consolidate downloaded Divvy data into a single data frame and then conduct simple exploratory data analysis to help answer the key question: *“In what ways do members and casual riders use Divvy bikes differently?”*
+The purpose of this script is to consolidate downloaded Divvy data into a single data frame and then conduct simple exploratory data analysis to help answer the key question: *“In what ways do members and casual riders use Divvy bikes differently?”*
 
 ## Business Task
 
-### To analyze user behaviors on how annual members and casual riders use Cyclistic bikes differently to make recommendations on how to convert casual riders into annual members
+To analyze user behaviors on how annual members and casual riders use Cyclistic bikes differently to make recommendations on how to convert casual riders into annual members
 
 ### Information about the dataset
 
@@ -40,7 +40,7 @@ The following process is utilized:
   
 ### Identifying 
 
-#### To identify issues with the data, we:
+To identify issues with the data, we:
 
   * Evaluate the ride length and spot unusual observations
   * Filtered the data and identified missing values
