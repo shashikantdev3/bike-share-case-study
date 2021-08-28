@@ -2,7 +2,7 @@
 
 ### To see the detailed repots of Analysis on website : [Click Here](https://public.tableau.com/)
 
-![Cyclistic Company Logo](C:/Users/Shashikant/Desktop/Google Data Analyst/Google Data Analytics Capstone/logo.png)
+![Cyclistic Company Logo](logo.png)
 
 # Background
 
