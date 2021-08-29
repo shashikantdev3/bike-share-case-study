@@ -46,5 +46,21 @@ To identify issues with the data, we:
   * Sorted the data and found inconsistent attribute format
 
 
+### **Process**
+Here, we will perform the data cleaning, ensure integrity, and that it is complete,
+correct, and relevant.
 
+### Tools
+We selected tools to perform specific tools, as described next.
+
+  * R: develop scripts to clean, transform, organize, and summarize the datasets
+  * Tableau: create data visualizations
+  * R Notebook: provide a complete report of the data analysis process
+
+
+## Install Required Packages
+
+* tidyverse for data import and wrangling
+* libridate for date functions
+* ggplot for visualization
 
