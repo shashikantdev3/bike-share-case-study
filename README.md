@@ -1,7 +1,7 @@
 # Bike Share Case Study
 
-* To see the detailed repots of Analysis on website : [Click Here](https://imshashikantdev.github.io/Bike-Share-Case-Study/)
-* To see the detailed repots of Analysis on Kaggle : [Click Here](https://www.kaggle.com/shashikantdev/case-study-cyclistic-bike-share)
+* To see the detailed reports of Analysis on website : [Click Here](https://imshashikantdev.github.io/Bike-Share-Case-Study/)
+* To see the detailed reports of Analysis on Kaggle : [Click Here](https://www.kaggle.com/shashikantdev/case-study-cyclistic-bike-share)
 
 
 ![Cyclistic Company Logo](logo.png)
